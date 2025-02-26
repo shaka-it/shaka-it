@@ -6,7 +6,6 @@
 ⏳ GMT+5  
 ✉️ [shbazhenov@gmail.com](mailto:shbazhenov@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shakarim-bazhenov/)  
-🔗 [GitHub](https://github.com/shaka-it)  
 
 ---
 
