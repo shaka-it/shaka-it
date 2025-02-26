@@ -43,29 +43,28 @@ Additionally, I have experience with backend development (2+ years), particularl
 
 ## 💼 Experience
 
-### **JUSAN BANK (02/2022 - Present, 3+ Years)**
+### **[JUSAN BANK](https://play.google.com/store/apps/details?id=kz.jysan.business&hl=en) (02/2022 - Present, 3+ Years)**
 - Automated Play Store releases with Play Publisher, reducing manual deployment time by 47% and increasing release frequency.
 - Integrated Kover for test coverage analysis, increasing unit test coverage from 41% to 67%, reducing regressions.
 - Integrated Detekt into CI/CD, cutting the merge request checklist by 53% and reducing code review time by 44%.
 
 **Technologies:** Jetpack Compose, Coroutines, Koin, Room, DataStore, MVI+MVVM, Kotlin DSL, Cicerone, Play/Huawei Publisher, Unit Tests
 
-### **SFERA (09/2020 - 02/2022, 1.4 Years)**
+### **[SFERA](https://play.google.com/store/apps/details?id=zone.sfera&hl=en) (09/2020 - 02/2022, 1.4 Years)**
 - Implemented gRPC for real-time chat, improving Play Store rating from 4.2 to 4.4.
 - Added request caching, reducing API calls by 42%, enhancing performance and lowering server load.
 - Optimized dating questionnaire flow, reducing completion time by 37% and increasing completion rate by 21%.
 
 **Technologies:** XML, RxJava, Dagger, Room, MVP, gRPC, Navigation Component, Google Maps
 
-### **ANDERSEN LAB (08/2019 - 09/2020, 1.1 Years)**
+### **[ANDERSEN LAB](https://andersenlab.com/) (08/2019 - 09/2020, 1.1 Years)**
 - Improved crash-free user rate from 92.4% to 96.1% by analyzing and addressing Crashlytics reports.
 - Refactored a monolithic module into a multi-module architecture, reducing build time by 34%.
 - Integrated a centralized design system, reducing UI development time per new feature by 40%.
 
 **Technologies:** XML, RxJava, Hilt, Realm, MVVM, GraphQL, UI Tests
 
-### **CRYSTAL SPRING (06/2018 - 08/2019, 1.2 Years)**
-[Company Website](https://crystalspring.kz/produkty/mobilnye-prilozheniya/)
+### **[CRYSTAL SPRING](https://crystalspring.kz/produkty/mobilnye-prilozheniya/) (06/2018 - 08/2019, 1.2 Years)**
 
 ---
 
@@ -82,10 +81,3 @@ Additionally, I have experience with backend development (2+ years), particularl
 - **Mentor** junior developers to support their professional growth.
 - Write **technical posts** for internal company platforms.
 - Improve the **grading and interviewing system** within the company.
-
----
-
-## 🔗 Projects & Links
-- **Jusan Bank App**: [Google Play](https://play.google.com/store/apps/details?id=kz.jysan.business&hl=en)
-- **SFERA App**: [Google Play](https://play.google.com/store/apps/details?id=zone.sfera&hl=en)
-- **Andersen Lab**: [Website](https://andersenlab.com/)
