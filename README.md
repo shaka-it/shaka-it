@@ -7,6 +7,7 @@
 💬 [Telegram](t.me/shbazhenov)  
 ✉️ [shbazhenov@gmail.com](mailto:shbazhenov@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shakarim-bazhenov/)  
+👨‍💻 [Leetcode](https://leetcode.com/u/shbazhenov/)  
 
 ---
 
