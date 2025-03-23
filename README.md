@@ -2,8 +2,9 @@
 
 ## Android Developer | 6.5+ Years Experience
 
-📞 +1 (778) 819-6394  
 ⏳ GMT+5  
+📞 [+44 7412 805 447](https://wa.me/447412805447)  
+💬 [Telegram](t.me/shbazhenov)  
 ✉️ [shbazhenov@gmail.com](mailto:shbazhenov@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shakarim-bazhenov/)  
 
@@ -80,4 +81,5 @@ Additionally, I have experience with backend development (2+ years), particularl
 - Conduct internal **technical talks** to share best practices and industry trends.
 - **Mentor** junior developers to support their professional growth.
 - Write **technical posts** for internal company platforms.
+- Conduct public **technical posts** on [LinkedIn](https://www.linkedin.com/in/shakarim-bazhenov/) and [Medium](https://medium.com/@shbazhenov).
 - Improve the **grading and interviewing system** within the company.
