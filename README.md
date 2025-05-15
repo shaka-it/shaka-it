@@ -31,7 +31,7 @@ Additionally, I have experience with backend development (2+ years), particularl
 - **Architecture**: Clean Architecture, MVVM, MVI, MVP, GOF Design Patterns, GRASP
 - **Navigation**: Cicerone, Navigation Component
 - **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, Play/Huawei Publisher
-- **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso)
+- **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso), TDD
 - **Analytics & Monitoring**: Firebase Analytics/Crashlytics, FCM, Google Maps, MLKit
 - **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP)
 
