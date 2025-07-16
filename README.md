@@ -32,7 +32,7 @@ Additionally, I have experience with backend development (2+ years), particularl
 - **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, Play/Huawei Publisher
 - **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso), TDD
 - **Analytics & Monitoring**: Firebase Analytics/Crashlytics, FCM, Google Maps, MLKit
-- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP)
+- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
 
 ### **Backend**
 - **Technologies**: Spring, PostgreSQL, MongoDB, Redis, Liquibase, Docker, Kubernetes, Feign, RabbitMQ, Apache Kafka
