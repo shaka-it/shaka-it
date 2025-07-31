@@ -11,7 +11,7 @@
 ---
 
 ## 📌 About
-I am an Android developer with over 6.5 years of commercial experience across outsourcing, startups, and fintech companies. I have worked in teams of varying sizes, from solo development to 30-member teams, both remotely and on-site.
+I am an Android developer with over 7+ years of commercial experience across outsourcing, startups, and fintech companies. I have worked in teams of varying sizes, from solo development to 30-member teams, both remotely and on-site.
 
 With over 3 years as a tech lead, I have managed the full development cycle, from gathering product owner requirements to implementing a fully automated release process with high test coverage, analytics, and CI/CD. I am passionate about researching and integrating new technologies.
 
