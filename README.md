@@ -1,6 +1,6 @@
 # Shakarim Bazhenov
 
-## Android Developer | 6.5+ Years Experience
+## Android Developer | 7+ Years Experience
 
 📞 [+44 7412 805 447](https://wa.me/447412805447)  
 💬 [Telegram](t.me/shbazhenov)  
