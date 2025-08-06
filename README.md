@@ -81,10 +81,10 @@ Additionally, I have experience with backend development (2+ years), particularl
 - Conduct internal **technical talks** to share best practices and industry trends.
 - **Mentor** junior developers to support their professional growth.
 - Write **technical posts** for internal company platforms.
+- Conduct public **technical posts** on [LinkedIn](https://www.linkedin.com/in/shakarim-bazhenov/) and [Medium](https://medium.com/@shbazhenov).
+- Improve the **grading and interviewing system** within the company.
 
 ---
 
 ## 💻 Public Repositories
 - [kmp-multimodule](https://github.com/shaka-it/kmp-multimodule) — Kotlin Multiplatform multi-module demo: Compose Multiplatform UI, Ktor data layer, SQLDelight, Koin DI, shared-core architecture.
-- Conduct public **technical posts** on [LinkedIn](https://www.linkedin.com/in/shakarim-bazhenov/) and [Medium](https://medium.com/@shbazhenov).
-- Improve the **grading and interviewing system** within the company.
