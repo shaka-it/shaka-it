@@ -32,7 +32,7 @@ Additionally, I have experience with backend development (2+ years), particularl
 - **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, Play/Huawei Publisher
 - **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso), TDD
 - **Analytics & Monitoring**: Firebase Analytics/Crashlytics, FCM, Google Maps, MLKit
-- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
+- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform, Decompose, Ktor, SQLDelight
 
 ### **Backend**
 - **Technologies**: Spring, PostgreSQL, MongoDB, Redis, Liquibase, Docker, Kubernetes, Feign, RabbitMQ, Apache Kafka
@@ -87,4 +87,4 @@ Additionally, I have experience with backend development (2+ years), particularl
 ---
 
 ## 💻 Public Repositories
-- [kmp-multimodule-sample](https://github.com/shaka-it/kmp-multimodule-sample) — Kotlin Multiplatform multi-module sample: Compose Multiplatform, Ktor, SQLDelight, Koin DI.
+- [kmp-multimodule-sample](https://github.com/shaka-it/kmp-multimodule-sample) — Kotlin Multiplatform multi-module sample: Compose Multiplatform, Decompose, Ktor, SQLDelight, Koin DI.
