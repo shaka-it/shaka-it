@@ -87,4 +87,4 @@ Additionally, I have experience with backend development (2+ years), particularl
 ---
 
 ## 💻 Public Repositories
-- [kmp-multimodule](https://github.com/shaka-it/kmp-multimodule) — Kotlin Multiplatform multi-module demo: Compose Multiplatform UI, Ktor data layer, SQLDelight, Koin DI, shared-core architecture.
+- [kmp-multimodule-sample](https://github.com/shaka-it/kmp-multimodule-sample) — Kotlin Multiplatform multi-module demo: Compose Multiplatform UI, Ktor data layer, SQLDelight, Koin DI, shared-core architecture.
