@@ -25,17 +25,17 @@ Additionally, I have experience with backend development (2+ years), particularl
 - **Languages & Frameworks**: Kotlin, Java, Jetpack Compose, XML (View Binding, Data Binding, Synthetics)
 - **Concurrency**: Coroutines, RxJava
 - **Dependency Injection**: Dagger, Hilt, Koin
-- **Networking**: REST (Retrofit, OkHttp), GraphQL (Apollo), gRPC
-- **Data Management**: Room, SQLite, Realm, SharedPreferences, DataStore
+- **Networking**: REST (Retrofit, OkHttp, Ktor), GraphQL (Apollo), gRPC
+- **Data Management**: Room, SQLite, Realm, SQLDelight, SharedPreferences, DataStore
 - **Architecture**: Clean Architecture, MVVM, MVI, MVP, GOF Design Patterns, GRASP
-- **Navigation**: Cicerone, Navigation Component
+- **Navigation**: Cicerone, Navigation Component, Decompose
 - **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, Play/Huawei Publisher
 - **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso), TDD
 - **APIs**: Firebase Analytics/Crashlytics, FCM, Google Maps API, Google Pay API, MLKit
-- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform, Decompose, Ktor, SQLDelight
+- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
 
 ### **Backend**
-- **Technologies**: Spring, PostgreSQL, MongoDB, Redis, Liquibase, Docker, Kubernetes, Feign, RabbitMQ, Apache Kafka
+- **Technologies**: Spring, Ktor, PostgreSQL, MongoDB, Redis, Liquibase, Docker, Kubernetes, Feign, RabbitMQ, Apache Kafka
 - **Monitoring & DevOps**: Grafana, Dynatrace, Linux
 - **Security & API**: Keycloak, Nginx, Swagger
 - **Cloud & Infrastructure**: AWS
