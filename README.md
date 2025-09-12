@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 About
+## About
 I am an Android developer with over 7+ years of commercial experience across outsourcing, startups, and fintech companies. I have worked in teams of varying sizes, from solo development to 30-member teams, both remotely and on-site.
 
 With over 3 years as a tech lead, I have managed the full development cycle, from gathering product owner requirements to implementing a fully automated release process with high test coverage, analytics, and CI/CD. I am passionate about researching and integrating new technologies.
@@ -19,7 +19,7 @@ Additionally, I have experience with backend development (2+ years), particularl
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ### **Android**
 - **Languages & Frameworks**: Kotlin, Java, Jetpack Compose, XML (View Binding, Data Binding, Synthetics)
@@ -42,7 +42,7 @@ Additionally, I have experience with backend development (2+ years), particularl
 
 ---
 
-## 🌟 Personal Brand
+## Personal Brand
 - Conduct internal **technical talks** to share best practices and industry trends.
 - **Mentor** junior developers to support their professional growth.
 - Write **technical posts** for internal company platforms.
@@ -51,6 +51,6 @@ Additionally, I have experience with backend development (2+ years), particularl
 
 ---
 
-## 💻 Public Repositories
+## Public Repositories
 - [kmp-multimodule-sample](https://github.com/shaka-it/kmp-multimodule-sample) — Modular Kotlin Multiplatform sample with shared business logic, Compose clients, Kobweb site, and Ktor backend.
 - [tapyou-test-task](https://github.com/shaka-it/tapyou-test-task) - Clean-architecture Android demo for the TapYou challenge: fetch N points from an API and visualise them in a table and line chart.
