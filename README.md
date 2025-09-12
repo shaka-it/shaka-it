@@ -52,5 +52,5 @@ Additionally, I have experience with backend development (2+ years), particularl
 ---
 
 ## 💻 Public Repositories
-- [kmp-multimodule-sample](https://github.com/shaka-it/kmp-multimodule-sample) — Kotlin Multiplatform multi-module sample: Compose Multiplatform, Decompose, Ktor, SQLDelight, Koin DI.
-- [tapyou-test-task](https://github.com/shaka-it/tapyou-test-task) - Implementation of test task from TapYou.
+- [kmp-multimodule-sample](https://github.com/shaka-it/kmp-multimodule-sample) — Modular Kotlin Multiplatform sample with shared business logic, Compose clients, Kobweb site, and Ktor backend.
+- [tapyou-test-task](https://github.com/shaka-it/tapyou-test-task) - Clean-architecture Android demo for the TapYou challenge: fetch N points from an API and visualise them in a table and line chart.
