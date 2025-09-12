@@ -53,3 +53,4 @@ Additionally, I have experience with backend development (2+ years), particularl
 
 ## 💻 Public Repositories
 - [kmp-multimodule-sample](https://github.com/shaka-it/kmp-multimodule-sample) — Kotlin Multiplatform multi-module sample: Compose Multiplatform, Decompose, Ktor, SQLDelight, Koin DI.
+- [tapyou-test-task](https://github.com/shaka-it/tapyou-test-task) - Implementation of test task from TapYou.
