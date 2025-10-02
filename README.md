@@ -11,11 +11,9 @@
 ---
 
 ## About
-I am an Android developer with over 7+ years of commercial experience across outsourcing, startups, and fintech companies. I have worked in teams of varying sizes, from solo development to 30-member teams, both remotely and on-site.
+I am an Android developer with 7+ years of commercial experience in various types of companies, including outsourcing, start-ups, and fintech. I have worked in teams ranging from 1 to 30 members, both remotely and on-site. With 3+ years of experience as a tech lead, I have overseen the entire development cycle, from collecting requirements from the owner of the product to establishing a fully automated release process with high test coverage, detailed analytics, documentation, and CI/CD. I excel in researching and integrating new technologies.
 
-With over 3 years as a tech lead, I have managed the full development cycle, from gathering product owner requirements to implementing a fully automated release process with high test coverage, analytics, and CI/CD. I am passionate about researching and integrating new technologies.
-
-Additionally, I have experience with backend development (2+ years), particularly in fintech projects. My background also includes ML/AI, as I led a face recognition project for my university diploma, which remains in use today.
+In addition to my core Android expertise, I have implemented multiple fintech features in the back-end, where I have 2+ years of experience. I also have experience with ML/AI, having led a face recognition project for my university diploma, which my team and I developed and is still in use at the university today. I also have good experience with KMP with Compose Multiplatform.
 
 ---
 
