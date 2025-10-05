@@ -21,7 +21,7 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 
 ### **Android**
 - **Languages**: Kotlin, Java
-- **Scripting & Data**: Python, Shell/Bash, SQL
+- **Scripting & Data**: Shell/Bash, SQL
 - **UI**: Jetpack Compose, XML (View Binding, Data Binding, Synthetics), Custom Views, Animations (Value/ObjectAnimator, MotionLayout), Adapter Delegates
 - **Concurrency**: Coroutines, RxJava
 - **Dependency Injection**: Dagger, Hilt, Koin
