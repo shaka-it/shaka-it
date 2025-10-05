@@ -21,7 +21,6 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 
 ### **Android**
 - **Languages**: Kotlin, Java
-- **Scripting & Data**: Shell/Bash, SQL
 - **UI**: Jetpack Compose, XML (View Binding, Data Binding, Synthetics), Custom Views, Animations (Value/ObjectAnimator, MotionLayout), Adapter Delegates
 - **Concurrency**: Coroutines, RxJava
 - **Dependency Injection**: Dagger, Hilt, Koin
@@ -29,6 +28,7 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 - **Data Management**: Room, SQLite, Realm, SQLDelight, SharedPreferences, DataStore
 - **Architecture**: Clean Architecture, MVVM, MVI, MVP, GOF Design Patterns, GRASP
 - **Navigation**: Cicerone, Navigation Component, Decompose
+- **Scripting & Data**: Shell/Bash, SQL
 - **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, Play/Huawei Publisher
 - **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso), TDD
 - **APIs**: Firebase Analytics/Crashlytics, FCM, Google Maps API, Google Pay API, MLKit
