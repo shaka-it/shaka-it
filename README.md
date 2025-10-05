@@ -31,6 +31,7 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 - **Scripting & Data**: Shell/Bash, SQL
 - **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, Play/Huawei Publisher
 - **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso), TDD
+- **Profiling**: Performance profiling (Android Studio Profiler), LeakCanary
 - **APIs**: Firebase Analytics/Crashlytics, FCM, Google Maps API, Google Pay API, MLKit
 - **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
 
@@ -39,6 +40,9 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 - **Monitoring & DevOps**: Grafana, Dynatrace, Linux
 - **Security & API**: Keycloak, Nginx, Swagger
 - **Cloud & Infrastructure**: AWS
+
+### **Tools**
+- Figma, Jira, Confluence
 
 ---
 
