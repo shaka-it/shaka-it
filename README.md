@@ -21,18 +21,18 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 
 ### **Android**
 - **Languages**: Kotlin, Java
-- **UI**: Jetpack Compose, XML (View Binding, Data Binding, Synthetics), Custom Views, Animations (Value/ObjectAnimator, MotionLayout), Adapter Delegates
+- **UI**: Jetpack Compose, XML (View Binding, Data Binding, Synthetics), Custom Views, Animations (Value/ObjectAnimator, MotionLayout), Adapter Delegates, Coil, Localization
 - **Concurrency**: Coroutines, RxJava
 - **Dependency Injection**: Dagger, Hilt, Koin
 - **Networking**: REST (Retrofit, OkHttp, Ktor), GraphQL (Apollo), gRPC
 - **Data Management**: Room, SQLite, Realm, SQLDelight, SharedPreferences, DataStore
-- **Architecture**: Clean Architecture, MVVM, MVI, MVP, GOF Design Patterns, GRASP
+- **Architecture**: Clean Architecture, Single Activity, MVVM, MVI, MVP, GOF Design Patterns, GRASP
 - **Navigation**: Cicerone, Navigation Component, Decompose
 - **Scripting & Data**: Shell/Bash, SQL
-- **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, Play/Huawei Publisher
-- **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Espresso), TDD
+- **Build & CI/CD**: Gradle, Groovy, Kotlin DSL, Git Flow, Trunk-based development, Circle CI, GitLab CI, GitHub Actions, Jenkins, Play/Huawei Publisher
+- **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Compose UI Testing, Espresso), TDD
 - **Profiling**: Performance profiling (Android Studio Profiler), LeakCanary
-- **APIs**: Firebase Analytics/Crashlytics, FCM, Google Maps API, Google Pay API, MLKit
+- **APIs**: Firebase Analytics/Crashlytics, Amplitude, AppsFlyer, FCM, Google Maps API, Google Pay API, MLKit
 - **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
 
 ### **Backend**
@@ -42,7 +42,7 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 - **Cloud & Infrastructure**: AWS
 
 ### **Tools**
-- Figma, Jira, Confluence
+- Figma, Jira, Confluence, AI-powered developer tools (Github Copilot, Cursor, ChatGPT API, Codex)
 
 ---
 
