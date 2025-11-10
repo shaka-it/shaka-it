@@ -34,6 +34,7 @@ In addition to my core Android expertise, I have implemented multiple fintech fe
 - **Profiling**: Performance profiling (Android Studio Profiler), LeakCanary
 - **APIs**: Firebase Analytics/Crashlytics, Amplitude, AppsFlyer, FCM, Google Maps API, Google Pay API, MLKit
 - **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
+- **POS/EMV**: PAX & Sunmi SDK integration, EMV chip/contactless flows, QR payments, reversals, vendor CI/CD
 
 ### **Backend**
 - **Technologies**: Spring, Ktor, PostgreSQL, MongoDB, Redis, Liquibase, Docker, Kubernetes, Feign, RabbitMQ, Apache Kafka
