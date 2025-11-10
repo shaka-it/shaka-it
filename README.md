@@ -11,9 +11,9 @@
 ---
 
 ## About
-I am an Android developer with 6+ years of commercial experience in outsourcing, start-ups, and fintech. I’ve worked in teams from 1 to 30 members, both remotely and on-site. With 3+ years as a tech lead, I’ve managed the full development cycle, from requirements gathering to automated releases with high test coverage, analytics, documentation, and CI/CD. I also have hands-on experience with POS/EMV systems and have solid experience with Kotlin Multiplatform using Compose Multiplatform.
+I am an Android developer with 6+ years of commercial experience across outsourcing, start-ups, and fintech. I’ve worked in teams of various sizes (1–30 members), both remotely and on-site. With over 3 years as a tech lead, I’ve managed the entire development cycle, from requirements gathering to automated releases with high test coverage, analytics, documentation, and CI/CD. I also have hands-on experience with POS/EMV systems and strong expertise in Kotlin Multiplatform using Compose Multiplatform.
 
-In addition to Android, I’ve built fintech features on the backend (2+ years), led an ML-based face recognition project still in use at my university.
+In addition to Android, I’ve built fintech features on the backend (2+ years) and led an ML-based face recognition project that is still in use at my university.
 
 ---
 
