@@ -33,8 +33,8 @@ In addition to Android, I’ve built fintech features on the backend (2+ years) 
 - **Testing**: Unit/Integration/UI Tests (JUnit, Mockito, MockK, Robolectric, Compose UI Testing, Espresso), TDD
 - **Profiling**: Performance profiling (Android Studio Profiler), LeakCanary
 - **APIs**: Firebase Analytics/Crashlytics, Amplitude, AppsFlyer, FCM, Google Maps API, Google Pay API, MLKit
-- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
 - **POS/EMV**: PAX & Sunmi SDK integration, EMV chip/contactless flows, QR payments, reversals, vendor CI/CD
+- **Cross-Platform**: Kotlin Multiplatform Mobile (KMM/KMP), Compose Multiplatform
 
 ### **Backend**
 - **Technologies**: Spring, Ktor, PostgreSQL, MongoDB, Redis, Liquibase, Docker, Kubernetes, Feign, RabbitMQ, Apache Kafka
